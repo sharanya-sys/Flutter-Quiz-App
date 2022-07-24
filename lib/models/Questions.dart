@@ -37,4 +37,55 @@ const List sample_data = [
     ],
     "answer_index": 1,
   },
+  {
+    "id": 5,
+    "question": "Which planet in our solar system is known as the Red Planet?",
+    "options": ['Mercury', 'Saturn', 'Mars', 'Venus'],
+    "answer_index": 2,
+  },
+  {
+    "id": 6,
+    "question": "Which is the longest river in the world among this?",
+    "options": ['Amazon', 'Mississippi', 'Yamuna', 'Nile'],
+    "answer_index": 3,
+  },
+  {
+    "id": 7,
+    "question": "'.MPG' extension refers usually to what kind of file?",
+    "options": [
+      'WordPerfect Document file',
+      'MS Office document',
+      'Animation/movie file',
+      'Image file'
+    ],
+    "answer_index": 2,
+  },
+  {
+    "id": 8,
+    "question": "'CD' computer abbreviation usually means ?",
+    "options": [
+      'Command Description',
+      'Change Data',
+      'Copy Density',
+      'Compact Disc'
+    ],
+    "answer_index": 3,
+  },
+  {
+    "id": 9,
+    "question": "Which is the highest gallantry award in India?",
+    "options": [
+      'Maha Vir Chakra',
+      'Param Vir Chakra',
+      'Kirti Chakra',
+      'Vir Chakra'
+    ],
+    "answer_index": 1,
+  },
+  {
+    "id": 10,
+    "question": "The World Environment Day is celebrated on",
+    "options": ['April 7', 'June 5', 'August 6', 'June 16'],
+    "answer_index": 1,
+  },
 ];
